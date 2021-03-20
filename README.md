@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dwarshb
-- 👀 I’m interested in UI | UX designing for mobile apps.
+- 👀 I’m interested in designing & developing UI for mobile apps.
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Android,Kotlin Multiplatform Mobile,JetPack Compose
 - 📫 How to reach me ...find a way.
