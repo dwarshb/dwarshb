@@ -1,8 +1,26 @@
-- 👋 Hi, I’m @dwarshb
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"/> Hi, I’m dwarshb
 - 👀 I’m interested in designing & developing UI for mobile apps.
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Android,Kotlin Multiplatform Mobile,JetPack Compose
-- 📫 How to reach me ...find a way.
+
+### 📫 How to reach me.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-bhanushali-03154a13a") 
+[![Profile](https://img.shields.io/badge/Profile-100000?style=for-the-badge&logo=riseup&logoColor=white)](https://dwarshb.github.io/)
+<!--[![Mail](https://img.shields.io/badge/Message-red?style=for-the-badge&logo=chatbot&logoColor=white)](#)-->
+
+<hr/>
+
+### :hammer: Languages and Platforms
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
+
+[![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white)](#)
+[![Github](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
 
 <!---
 dwarshb/dwarshb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
