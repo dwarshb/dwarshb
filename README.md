@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"/> Hello, I’m Darshan
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px"/> Hello, I’m Darshan
 ![Profile views](https://gpvc.arturio.dev/dwarshb)  <img src="https://img.shields.io/github/followers/dwarshb?label=Follow" style=" float:left, margin-right:10px" />
 
 My name is Darshan Bhanushali and i am working as Android Developer from India :heart: .
