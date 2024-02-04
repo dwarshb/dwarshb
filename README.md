@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px"/> Hello, I’m Darshan
 
-My name is Darshan Bhanushali and i am working as Android Developer from India :heart: .
+My name is Darshan Bhanushali and i am working as Android Developer from Jersey City :heart: .
 
 - 👀 I’m interested in designing & developing UI for mobile apps.
 - 🌱 I’m currently learning <img align="center" src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
@@ -28,6 +28,10 @@ My name is Darshan Bhanushali and i am working as Android Developer from India :
 [![Github](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](#)
 [![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
 <hr/>
+
+### Latest Blog
+[![Darshan Bhanushali Medium](https://github-readme-medium.vercel.app/?username=developerspace&index=3)](https://medium.com/@developerspace)
+
 <!---
 dwarshb/dwarshb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
