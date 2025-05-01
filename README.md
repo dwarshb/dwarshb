@@ -3,7 +3,7 @@
 My name is Darshan Bhanushali and i am working as Android Developer from Jersey City :heart: .
 
 - 👀 I’m interested in designing & developing UI for mobile apps.
-- 🌱 I’m currently learning <img align="center" src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
+- 🌱 I’m currently learning <img align="center" src="https://img.shields.io/badge/-Compose Multiplatform-3a495d?style=flat&logo=kotlin&logoColor=67b7f7">
 - 💞️ I’m looking to collaborate on Android,Kotlin Multiplatform Mobile,JetPack Compose
 
 ### 📫 How to reach me.
@@ -30,7 +30,10 @@ My name is Darshan Bhanushali and i am working as Android Developer from Jersey 
 <hr/>
 
 ### Latest Blog
-[![Darshan Bhanushali Medium](https://github-readme-medium.vercel.app/?username=developerspace&index=3)](https://medium.com/@developerspace)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@developerspace/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@developerspace/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@developerspace/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@developerspace/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@developerspace/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@developerspace/3" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@developerspace/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@developerspace/6" alt="Recent Article 3"> 
 
 <!---
 dwarshb/dwarshb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
